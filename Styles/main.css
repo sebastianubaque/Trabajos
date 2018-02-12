@@ -26,10 +26,10 @@ article{
 }
 /* sengunda pagina */
 .paguina2 {
-  background-color: black;
-  margin:  60px 80px;
-  width: 895px;
   height: 950px;
+  width: 895px;
+  margin:  60px 80px;
+  background-color: black;
 }
 .verde1{
   width: 835px;
@@ -183,3 +183,50 @@ article{
   background-color:black;
   margin: 20px 30px 20px 30px ;
 }
+/* quinta paguina */
+.paguina5{
+  margin: 70px 60px;
+  width: 900px;
+  height: 1393px;
+  background-color: black;
+  display:inline-block;
+}
+.ver{
+  width: 800px;
+  height: 1115px;
+  background-color:green;
+  margin: 20px 60px 40px 40px ;
+}
+
+.ver1{
+  display: inline-block;
+  width: 760px;
+  height: 300px;
+  background-color:red;
+  margin: 20px 30px 30px 30px ;
+}
+.ver2{
+  display: inline-block;
+  width: 760px;
+  height: 300px;
+  background-color:blue;
+  margin: 0px 20px 15px 40px ;
+}
+.ver3{
+  width: 760px;
+  height: 200px;
+  background-color:blue;
+  margin: 0px 40px 15px 20px ;
+}
+.ver4{
+  display: inline-block;
+  width: 760px;
+  height: 200px;
+  background-color:yellow;
+  margin: 0px 45px 20px 15px ;
+}
+.azuluu{
+  width: 700px;
+  height: 200px;
+  background-color:purple;
+  margin: 0px 100px 60px 100px ;
